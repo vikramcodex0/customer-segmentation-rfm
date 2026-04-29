@@ -49,7 +49,11 @@ The dataset includes:
 "Behavior" (customer_behavior.png)
 
 ---
+## 📊 Dashboard Preview
 
+![Customer Behaviour](customer_behavior.png)
+
+![Customer Segments](segments.png)
 🛠️ Tools & Technologies
 
 - Python
